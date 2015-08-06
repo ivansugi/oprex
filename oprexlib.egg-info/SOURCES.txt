@@ -1,0 +1,11 @@
+MANIFEST.in
+README.txt
+setup.py
+app/__init__.py
+app/oprex.py
+app/parsetab.py
+oprexlib.egg-info/PKG-INFO
+oprexlib.egg-info/SOURCES.txt
+oprexlib.egg-info/dependency_links.txt
+oprexlib.egg-info/requires.txt
+oprexlib.egg-info/top_level.txt
