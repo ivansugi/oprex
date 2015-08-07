@@ -1,3 +1,3 @@
 from oprex import *
-import parsetab import *
+from parsetab import *
 
