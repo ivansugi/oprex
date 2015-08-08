@@ -1,9 +1,7 @@
-MANIFEST.in
-README.txt
 setup.py
-app/__init__.py
-app/oprex.py
-app/parsetab.py
+oprex/__init__.py
+oprex/oprex.py
+oprex/parsetab.py
 oprex.egg-info/PKG-INFO
 oprex.egg-info/SOURCES.txt
 oprex.egg-info/dependency_links.txt
