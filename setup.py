@@ -12,7 +12,7 @@ setup(
     author_email="panduwana@gmail.com",
 
     # Packages
-    packages=["app"],
+    packages=["oprex"],
 
     # Include additional files into the package
     include_package_data=True,
